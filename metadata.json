@@ -1,0 +1,7 @@
+{
+  "name": "PlickersScan Pro - Trợ lý Chấm điểm Thông minh",
+  "description": "Ứng dụng quét thẻ học sinh dựa trên công nghệ AI (Gemini Vision), hỗ trợ giáo viên thống kê kết quả từ ảnh chụp lớp học và xuất báo cáo Excel nhanh chóng.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
